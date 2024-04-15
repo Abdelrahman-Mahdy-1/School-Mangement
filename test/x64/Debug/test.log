@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C++ Projects\test\test\Source.cpp(458,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Projects\test\test\Source.cpp(470,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\C++ Projects\test\test\Source.cpp(542,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  test.vcxproj -> D:\C++ Projects\test\x64\Debug\test.exe
